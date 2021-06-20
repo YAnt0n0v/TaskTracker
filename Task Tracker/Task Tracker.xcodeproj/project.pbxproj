@@ -410,7 +410,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Task Tracker/Task Tracker.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F5RU76NTBA;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Task Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -432,7 +432,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Task Tracker/Task Tracker.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F5RU76NTBA;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Task Tracker/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
